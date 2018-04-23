@@ -39,7 +39,7 @@ A few test files are included (cinnamycin_dna.fasta and gallidermin_dna.fasta)
 6. run the following command:
 	perl run.pl
 
-7. Any predicted clusters will be in the following file in folder f1:	clusters_ggsearch_bridge_lanCDeh.txt
+7. Any predicted clusters will be in the following file in folder f1:	clusters_ggsearch_bridge_lanCDeh.txt.
    Individual files will be in the folder "strain" in folder f1
 
 Thank you for using this pipeline.
