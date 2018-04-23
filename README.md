@@ -23,6 +23,7 @@ Steps for predicting lanthipeptide gene clusters (LGCs)
 There should be no _ or spaces in strain name.
 
 Ex: ACCEPTED FILENAMES - StreptococcusPneumoniae_file1.fasta, StreptococcusPneumoniae_file2.fasta, StreptococcusPneumoniae_file1.fasta, nisin_file1.fasta
+
 Ex: NOT ACCEPTED FILENAMES - Streptococcus Pneumoniae_file1.fasta, Streptococcus_Pneumoniae_file1.fasta, Streptococcus.Pneumoniae_file1.fasta
 
 The genomic files should have a NCBI header, with GI number (ex. >gi|27763998|emb|AJ536588.1| Streptomyces cinnamoneus cinnamycin biosynthetic cluster) (Go to NCBI->search AJ536588.1-> Send complete record to file, in fasta format and show GI)
