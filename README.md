@@ -1,5 +1,6 @@
 # genome-mining
-This repository consists of a series of Perl scripts to mine for lanthieptide gene clusters from bacterial genome.
+This repository consists of a series of Perl scripts to mine for lanthipeptide gene clusters from bacterial genome.
+Please download as a Zip file and follow the instructions below.
 
 Please read completely.
 
