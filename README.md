@@ -46,6 +46,6 @@ Thank you for using this pipeline.
 
 Note:
 
-1. To predict the bridging pattern for any peptide sequence, use the following script:
+1. To predict the bridging pattern for any peptide sequence, use the input file (peptide.fasta) for the following script:
 	
 	addBridge.pl
